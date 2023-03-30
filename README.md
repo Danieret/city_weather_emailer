@@ -23,4 +23,4 @@ To use the script, you will need to provide your OpenWeatherMap API key, city na
 If you find any issues or have any suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ## Acknowledgments
-This project is based on the tutorial by Python Engineer.
+'This project is based on the tutorial by [Tech With Tim] (https://www.youtube.com/watch?v=Oz3W-LKfafE&list=PLCgOAfR4mb4Nj6SZdc1StQiS2REWUItXk&index=22)'.
